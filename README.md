@@ -1,2 +1,2 @@
 # javascript
- Arquivos do Curso de JavaScript
+ Repositório do Curso de JavaScript
